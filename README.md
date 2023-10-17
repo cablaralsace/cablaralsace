@@ -6,7 +6,7 @@
 
 💟 I'm a Software Engineering graduate of Avion School (Front-end Batch 9; Back-end Batch 13) and a former Technology Business Incubator Coordinator.  - [LinkedIn](https://www.linkedin.com/in/cablaralsace/) <br>
 💟 I’m interested in tech, arts & design, movies, digital and film photography. I’m also open to collaborate on projects that can positively change how this world works. <br>
-💟 Email me at alsacebutdev@gmail.com!
+💟 Email me at cablaralsace@gmail.com or alsacebutdev@gmail.com!
 
 <h2><samp>📈 GITHUB STATISTICS</samp></h2>
 
