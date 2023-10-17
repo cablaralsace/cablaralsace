@@ -4,7 +4,8 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=cablaralsace.visitor-badge)<br>
 💟 I'm a Software Engineering graduate of Avion School (Front-end Batch 9; Back-end Batch 13) <br>
-💟 I'm currently a Ruby on Rails Developer and a former Technology Business Incubator Coordinator.  - [LinkedIn](https://www.linkedin.com/in/cablaralsace/) <br>
+💟 I'm currently a Ruby on Rails Developer. <br>
+💟 Startups interest me; I was a former Technology Business Incubator Coordinator for 24 startups.  - [LinkedIn](https://www.linkedin.com/in/cablaralsace/) <br>
 💟 I’m interested in tech, arts & design, movies, digital and film photography. I’m also open to collaborate on projects that can positively change how this world works. <br>
 💟 Email me at cablaralsace@gmail.com or alsacebutdev@gmail.com!
 
